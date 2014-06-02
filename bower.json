@@ -1,0 +1,24 @@
+{
+  "name": "pdf-annotation-media-fragments",
+  "version": "0.0.0",
+  "authors": [
+    "chris@cbeer.info"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1.1",
+    "pdf.js": "https://github.com/mozilla/pdf.js/releases/download/v1.0.68/pdfjs-1.0.68-dist.zip",
+    "annotator": "https://github.com/openannotation/annotator/releases/download/v1.2.9/annotator-full.1.2.9.zip",
+    "mediaelement": "~2.14.2",
+    "Media-Fragment-Player": "git://github.com/yunjiali/Media-Fragment-Player.git",
+    "font-awesome": "~4.1.0"
+  }
+}
